@@ -27,7 +27,7 @@
 ## Установка
 1. Скопируйте репозиторий
 ```sh
-git clone https://github.com/pOsdas/Grade-1.-NotesManager.git
+git clone https://github.com/pOsdas/ai-object-vision.git
 cd [ваше имя]
 ```
 2. Создайте и активируйте свою виртуальную среду 
