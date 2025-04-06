@@ -43,7 +43,7 @@ cd [ваше имя]
     ```
 3. Установить зависимости:
 ```commandline
-pip install -r requirements.txt
+pip install -r req.txt
 ```
 
 ## License
